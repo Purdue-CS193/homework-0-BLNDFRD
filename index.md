@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Jacob Blandford's First CS193 Homework
+# Some of my favorite things about CS193 are
+-The content
+-how often we meet
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
